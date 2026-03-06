@@ -66,4 +66,4 @@ portfolio/
 
 ---
 
-© 2025 Ananthitha V — Designed & built with care
+© 2026 Ananthitha V — Designed & built with care
